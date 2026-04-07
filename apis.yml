@@ -1,7 +1,11 @@
 aid: exelon
-url: https://raw.githubusercontent.com/api-evangelist/exelon/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/exelon/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.exelon.com
+description: >-
+  Exelon is one of the nation's leading energy providers, operating regulated electric
+  and gas utilities serving customers across multiple U.S. states.
