@@ -1,7 +1,9 @@
 ---
 title: What AI-Driven Data Centers Mean for Energy Demands
 url: https://www.exeloncorp.com/grid/what-ai-driven-data-centers-mean-for-energy-demands
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exelon" press release artificial intelligence'
 position: 1
 source: serpapi-google

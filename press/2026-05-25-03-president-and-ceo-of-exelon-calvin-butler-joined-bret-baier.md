@@ -1,7 +1,9 @@
 ---
 title: President and CEO of Exelon Calvin Butler joined Bret Baier ...
 url: https://www.instagram.com/reel/DWHB6gfgGYQ/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Exelon" press release artificial intelligence'
 position: 3
 source: serpapi-google
