@@ -41,12 +41,14 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/exelon/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 position: Consuming
 access: 3rd-Party
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.exeloncorp.com/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/exelon-domain-security.yml
   - type: LinkedIn
